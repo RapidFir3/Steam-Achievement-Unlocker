@@ -1,0 +1,8 @@
+*.obj
+*.pdb
+*.user
+*.suo
+steam_appid.txt
+.vs/
+bin/Release/
+bin/Debug/
